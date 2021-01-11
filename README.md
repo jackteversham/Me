@@ -10,7 +10,8 @@
 * Robotics
 
 Find me on these platforms:
-<a href="http://google.com.au/" rel="some text">![Foo](icon/website.svg)</a>
+
+<a href="https://jackteversham523589966.wordpress.com" rel="some text" width="100" height="100">![Foo](icon/website.svg)</a>
 
 
 Languages, frameworks and tools:
