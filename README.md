@@ -23,9 +23,15 @@ Find me on these platforms:
 <img src="icon/insta.svg" alt="alt" width="50" height="50">
 </a>
 
+a href="https://www.instagram.com/jackteversham/">
+<img src="icon/facebook.svg" alt="alt" width="50" height="50">
+</a>
+
 
 
 
 Languages, frameworks and tools:
+a href="https://code.visualstudio.com
+<img src="icon/vscode.png" alt="alt" width="50" height="50">
+</a>
 
-<a href="https://www.linkedin.com/in/jack-teversham-b00634137/" rel="some text" width="1px" height="1px" >![Foo](icon/vscode.png)</a>
