@@ -12,7 +12,15 @@
 Find me on these platforms:
 
 <a href="https://www.linkedin.com/in/jack-teversham-b00634137/">
-<img src="icon/linkedIN.svg" alt="alt" width="100" height="100">
+<img src="icon/linkedIN.svg" alt="alt" width="50" height="50">
+</a>
+
+<a href="https://jackteversham523589966.wordpress.com">
+<img src="icon/website.svg" alt="alt" width="50" height="50">
+</a>
+
+<a href="https://www.instagram.com/jackteversham/">
+<img src="icon/insta.svg" alt="alt" width="50" height="50">
 </a>
 
 
