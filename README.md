@@ -31,7 +31,18 @@ Find me on these platforms:
 
 
 Languages, frameworks and tools:
-<a href="https://code.visualstudio.com
+
 <img src="icon/vscode.png" alt="alt" width="50" height="50">
-</a>
+<img src="icon/python.png" alt="alt" width="50" height="50">
+<img src="icon/java.png" alt="alt" width="50" height="50">
+<img src="icon/cplusplus.png" alt="alt" width="50" height="50">
+<img src="icon/c.png" alt="alt" width="50" height="50">
+<img src="icon/html.png" alt="alt" width="50" height="50">
+<img src="icon/css.png" alt="alt" width="50" height="50">
+<img src="icon/javascript.png" alt="alt" width="50" height="50">
+<img src="icon/node.png" alt="alt" width="50" height="50">
+<img src="icon/vscode.png" alt="alt" width="50" height="50">
+<img src="icon/python.png" alt="alt" width="50" height="50">
+<img src="icon/vue.png" alt="alt" width="50" height="50">
+                                                          
 
