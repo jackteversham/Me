@@ -11,7 +11,7 @@
 
 Find me on these platforms:
 
-<a href="https://jackteversham523589966.wordpress.com" rel="some text" width="400" height="400">![Foo](icon/website.svg)</a>
+<a href="https://www.linkedin.com/in/jack-teversham-b00634137/" rel="some text" width="100" height="100">![Foo](icon/linkedIN.svg)</a>
 
 
 Languages, frameworks and tools:
