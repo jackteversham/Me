@@ -23,7 +23,7 @@ Find me on these platforms:
 <img src="icon/insta.svg" alt="alt" width="50" height="50">
 </a>
 
-a href="https://www.instagram.com/jackteversham/">
+<a href="https://www.instagram.com/jackteversham/">
 <img src="icon/facebook.svg" alt="alt" width="50" height="50">
 </a>
 
@@ -31,7 +31,7 @@ a href="https://www.instagram.com/jackteversham/">
 
 
 Languages, frameworks and tools:
-a href="https://code.visualstudio.com
+<a href="https://code.visualstudio.com
 <img src="icon/vscode.png" alt="alt" width="50" height="50">
 </a>
 
