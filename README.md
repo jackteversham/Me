@@ -42,5 +42,11 @@ Languages, frameworks and tools:
 <img src="icon/javascript.png" alt="alt" width="50" height="50">
 <img src="icon/node.png" alt="alt" width="50" height="50">
 <img src="icon/vue.png" alt="alt" width="50" height="50">
+<img src="icon/sql.png" alt="alt" width="50" height="50">
+<img src="icon/mysql.png" alt="alt" width="50" height="50">
+<img src="icon/mongodb.png" alt="alt" width="50" height="50">
+<img src="icon/github.png" alt="alt" width="50" height="50">
+<img src="icon/git.png" alt="alt" width="50" height="50">
+<img src="icon/terminal.png" alt="alt" width="50" height="50">
                                                           
 
