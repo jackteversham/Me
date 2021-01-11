@@ -23,7 +23,7 @@ Find me on these platforms:
 <img src="icon/insta.svg" alt="alt" width="50" height="50">
 </a>
 
-<a href="https://www.instagram.com/jackteversham/">
+<a href="https://www.facebook.com/jack.teversham/">
 <img src="icon/facebook.svg" alt="alt" width="50" height="50">
 </a>
 
