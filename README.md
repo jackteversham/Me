@@ -11,7 +11,11 @@
 
 Find me on these platforms:
 
-<a href="https://www.linkedin.com/in/jack-teversham-b00634137/" rel="some text" width="1px" height="1px">![Foo](icon/linkedIN.svg)</a>
+<a href="https://www.linkedin.com/in/jack-teversham-b00634137/">
+<img src="icon/linkedIN.svg" alt="alt" width="100" height="100">
+</a>
+
+
 
 
 Languages, frameworks and tools:
