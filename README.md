@@ -10,7 +10,7 @@
 * Robotics
 
 Find me on these platforms:
-<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
+<a href="http://google.com.au/" rel="some text">![Foo](icon/website.svg)</a>
 
 
 Languages, frameworks and tools:
